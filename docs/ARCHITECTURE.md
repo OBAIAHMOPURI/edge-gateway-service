@@ -41,7 +41,7 @@ Validate all external input. Grant only necessary permissions and keep secrets i
 
 ## Proposed verification
 
-Test unknown routes, rejected destinations, expired credentials, policy outages, oversized input, timeout/cancellation behavior, and safe handling of non-idempotentent requests.
+Test unknown routes, rejected destinations, expired credentials, policy outages, oversized input, timeout/cancellation behavior, and safe handling of non-idempotent requests.
 
 No such test suite exists yet and no test results are claimed.
 
