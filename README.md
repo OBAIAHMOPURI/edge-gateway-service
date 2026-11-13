@@ -1,14 +1,38 @@
 # Edge Gateway Service
 
+## Project Overview
+
+Edge Gateway Service explores the idea of a shared front door for a group of applications. A future service could receive an approved request, work out which application should handle it, and return the response through a clearly defined entry point.
+
+**Current stage:** a documented concept, not a running gateway. It does not currently route traffic, connect applications, or provide a sign-in experience.
+
+## Business Use Cases
+
+These are possible future uses to discuss, not features available today:
+
+- **Portfolio planning:** map where different requests should go as a team manages more applications.
+- **Ownership clarity:** agree who is responsible for access rules, routing decisions, and support when a request cannot be completed.
+- **Experience design:** explore whether a common entry point would make a future application portfolio easier to understand.
+
+## Team Onboarding Checklist
+
+- [ ] Read the current-stage note and understand that no gateway is running.
+- [ ] List a few fictional requests and the applications that might handle them.
+- [ ] Discuss the separate [gateway concept](https://github.com/OBAIAHMOPURI/edge-gateway-service1); do not assume either is the chosen design.
+- [ ] Agree a project contact and record the decisions that still need an owner.
+- [ ] Read the [contribution guide](CONTRIBUTING.md) and browse [Related Projects](#related-projects); no installation is needed for this review.
+
+## Existing Project Details
+
 > **Status: documentation-first scaffold; not a runnable service.** Static inspection of `main` on 13 November 2026 found no application source, dependency manifest, automated tests, container image definition, or deployment configuration. Proposed behavior below must not be read as implemented functionality.
 
 ## Overview
 
 A candidate edge ingress boundary for routing requests to explicitly approved upstream services. This role is inferred from the repository name and is a design proposal for owner review, not an established product specification.
 
-### Verified repository state
+### Initial audit and documentation history
 
-The repository was empty and had no commits before this documentation pass. This documentation pass adds a README and architecture/setup guides only. It does not install dependencies, implement APIs, provision infrastructure, establish integrations, or deploy an application.
+The repository was empty and had no commits before the initial documentation pass. The first documentation pass added the README and architecture/setup guides. Contribution and interface guides were added later; this plain-English refresh updates the README only. It does not install dependencies, implement APIs, provision infrastructure, establish integrations, or deploy an application.
 
 ## Architecture notes
 
@@ -44,7 +68,11 @@ There is no supported install/build/run command, required runtime version, envir
 
 Use synthetic data and sandbox dependencies during development. Never commit credentials, tokens, production payloads, or private operational records. Implement least-privilege access, schema validation, structured redacted diagnostics, bounded timeouts/retries, and tests before treating the service as usable. No build, runtime, performance, security, or integration test has been executed as part of this documentation pass.
 
-## Network Ecosystem
+## Related Projects
+
+Explore the seven other projects in this account. Each link opens that project's main page so you can compare its purpose and stage. These are browsing links, not live connections between applications.
+
+### Network Ecosystem
 
 This is a navigation network across all eight repositories owned by this account, audited on 13 November 2026. Links indicate sibling projects, **not implemented integrations**. The Java apps are independent learning projects; the six service repositories have no application code.
 
