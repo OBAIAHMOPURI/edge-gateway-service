@@ -1,0 +1,116 @@
+{
+  "campaign": "zion_app_network_2026_11",
+  "review_date": "2026-11-14",
+  "publication_type": "promotional documentation; not application deployment",
+  "website_publication_status": "pending_authorized_publisher",
+  "apps": [
+    {
+      "slug": "smart-shopfloor-monitor",
+      "name": "Smart Shopfloor Monitor",
+      "group": "Manufacturing",
+      "status": "Campaign design brief; no implementation or live plant connection verified.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/smart-shopfloor-monitor.md",
+      "website_path": "/apps/smart-shopfloor-monitor/",
+      "repo_url": null
+    },
+    {
+      "slug": "predictive-maintenance-planner",
+      "name": "Predictive Maintenance Planner",
+      "group": "Manufacturing",
+      "status": "Campaign design brief; no prediction model, equipment integration, or maintenance automation verified.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/predictive-maintenance-planner.md",
+      "website_path": "/apps/predictive-maintenance-planner/",
+      "repo_url": null
+    },
+    {
+      "slug": "quality-inspection-tracker",
+      "name": "Quality Inspection Tracker",
+      "group": "Manufacturing",
+      "status": "Campaign design brief; no inspection application, automated defect detection, or compliance certification verified.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/quality-inspection-tracker.md",
+      "website_path": "/apps/quality-inspection-tracker/",
+      "repo_url": null
+    },
+    {
+      "slug": "supplier-inventory-sync",
+      "name": "Supplier Inventory Sync",
+      "group": "Manufacturing",
+      "status": "Campaign design brief; no ERP connector, live inventory synchronization, or replenishment automation verified.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/supplier-inventory-sync.md",
+      "website_path": "/apps/supplier-inventory-sync/",
+      "repo_url": null
+    },
+    {
+      "slug": "edge-gateway-service1",
+      "name": "Edge Gateway Service 1",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; not a runnable gateway or a confirmed replacement.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/edge-gateway-service1.md",
+      "website_path": "/apps/edge-gateway-service1/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/edge-gateway-service1"
+    },
+    {
+      "slug": "telemetry-stream-worker",
+      "name": "Telemetry Stream Worker",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; no event pipeline, reporting dashboard, or runtime implementation.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/telemetry-stream-worker.md",
+      "website_path": "/apps/telemetry-stream-worker/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/telemetry-stream-worker"
+    },
+    {
+      "slug": "workflow-state-sync",
+      "name": "Workflow State Sync",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; no live synchronization, adapters, or scheduled updates.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/workflow-state-sync.md",
+      "website_path": "/apps/workflow-state-sync/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/workflow-state-sync"
+    },
+    {
+      "slug": "alert-notification-dispatcher",
+      "name": "Alert Notification Dispatcher",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; no emails, text messages, or chat notifications are sent.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/alert-notification-dispatcher.md",
+      "website_path": "/apps/alert-notification-dispatcher/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/alert-notification-dispatcher"
+    },
+    {
+      "slug": "edge-gateway-service",
+      "name": "Edge Gateway Service",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; no running gateway, routing, or sign-in experience.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/edge-gateway-service.md",
+      "website_path": "/apps/edge-gateway-service/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/edge-gateway-service"
+    },
+    {
+      "slug": "identity-auth-proxy",
+      "name": "Identity Auth Proxy",
+      "group": "Portfolio",
+      "status": "Documentation-first concept; not a working sign-in, authorization, or security product.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/identity-auth-proxy.md",
+      "website_path": "/apps/identity-auth-proxy/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/identity-auth-proxy"
+    },
+    {
+      "slug": "banky",
+      "name": "Banky Application",
+      "group": "Portfolio",
+      "status": "Incomplete Java Servlet/JDBC educational prototype; not a safe or verified banking product.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/banky.md",
+      "website_path": "/apps/banky/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/Brainwave_Matrix_Intern"
+    },
+    {
+      "slug": "hospital-management-system",
+      "name": "Hospital Management System",
+      "group": "Portfolio",
+      "status": "Incomplete Java Servlet/JDBC educational prototype; not a clinical or hospital-ready system.",
+      "github_page": "https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/hospital-management-system.md",
+      "website_path": "/apps/hospital-management-system/",
+      "repo_url": "https://github.com/OBAIAHMOPURI/BrainWave_Matrix_Intern1"
+    }
+  ]
+}
