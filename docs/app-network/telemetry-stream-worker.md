@@ -57,3 +57,7 @@ These are bidirectional discovery links, **not implemented integrations**.
 [Source catalog entry](https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/telemetry-stream-worker.md) · [Registry](https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/registry.json).
 
 *Campaign content reviewed 14 November 2026. Documentation publication does not establish runtime availability, production readiness, certification, or measured business outcomes.*
+
+## Further documentation review
+
+[Reading paths and readiness boundaries](../APP_NETWORK_READING_PATHS.md). These links support documentation review and do not represent implemented integrations.

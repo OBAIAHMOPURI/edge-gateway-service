@@ -34,3 +34,7 @@ The proposed homepage features four manufacturing briefs and a full twelve-app g
 ## Contact
 
 [Request a synthetic-data walkthrough or scope review](mailto:commercial@ziontechgroup.com?subject=ZionTechGroup%20app%20network%20scope%20review). No deployment, booking, email send, financial operation, or production change is authorized by these documents.
+
+## Review references
+
+- [Reading paths and readiness boundaries](../APP_NETWORK_READING_PATHS.md)
