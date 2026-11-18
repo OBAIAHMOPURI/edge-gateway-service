@@ -44,3 +44,14 @@ For more detailed contribution guidance, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Workflow State Sync — workflow-state-sync](https://github.com/OBAIAHMOPURI/workflow-state-sync)
 
 These links help people browse the portfolio. They do not mean that the applications are connected or ready for production use.
+
+## Correspondence and Supplier-Sourcing Review Controls
+
+- Distinguish read-only review, proposed staging, approved changes and completed execution.
+- Reuse existing case and draft identifiers; preserve history and investigate conflicting variants before creating another record.
+- Keep unverified destinations on hold. Before release, verify identity, business address, outreach basis, sender ownership, replies, bounces and opt-outs.
+- Enforce a rolling 168-hour follow-up check across relevant senders. Eligibility is not permission to send.
+- Describe materials according to their documented maturity. Navigation links do not establish working integrations.
+- Supplier enquiries request only the supplier's own specifications, fees and terms. Exclude client budgets and internal economics.
+- Obtain exact-content approval before correspondence or record changes.
+- Keep customer-specific handovers in approved private systems, not this public repository.
